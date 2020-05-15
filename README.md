@@ -6,19 +6,19 @@
 
 2. Install Library
 
--PyOpenGL                                       3.1.3b2
+    - PyOpenGL                                       3.1.3b2
 
--PyOpenGL-accelerate                            3.1.3b2
+    - PyOpenGL-accelerate                            3.1.3b2
 
--OpenGLContext                                  2.3.0
+    - OpenGLContext                                  2.3.0
 
--PyVRML97                                       2.3.1
+    - PyVRML97                                       2.3.1
 
--Pillow                                         5.3.0
+    - Pillow                                         5.3.0
 
 ## How To Play
 
--python play.py
+python play.py
 
 
 
