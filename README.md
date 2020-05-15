@@ -1,5 +1,9 @@
 # game_kapal_selam_pyopengl
 
+## How To Play
+
+# Install Python
+
 # Direction 
 Find The Box!. Turn On The Lights to see The Box. And Place The X Sign In The Box So You Can Get Points.
 
