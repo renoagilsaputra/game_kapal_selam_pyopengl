@@ -55,6 +55,8 @@ def init():
     glClearColor(convert_rgb(bg_red), convert_rgb(bg_green), convert_rgb(bg_blue), 1.0)
     gluOrtho2D(-500.0, 500.0, -500.0, 500.0)
 
+# Fungsi ini digunakan untuk konversi nilai kode warna rgb menjadi format warna 
+# pada PyopenGL
 def convert_rgb(c):
     return c / 255.0
 
